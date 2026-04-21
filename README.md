@@ -13,3 +13,4 @@ Le dépôt contient les différentes parties du projet académique.
 On y organise l’article scientifique, la présentation et l’analyse.
 GitHub permet de suivre les modifications et les versions.
 Cet espace servira aussi pour le travail collaboratif du groupe.
+Cette phrase a été ajoutée depuis la branche modification-description.
